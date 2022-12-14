@@ -227,7 +227,7 @@ Guitar.create!(
   price: 1099,
   serial_number: 'MZ7017048',
   year: 2007,
-  photo_id: 'lbyh9e6p3ikhcuuh9xp2ivl6ctkt',
+  photo_id: 'uqhv6nleuxzdlxn2fez6zprb60rz',
   photos_ids: %w[StratocasterClassicPlayer'60s-0.jpeg" StratocasterClassicPlayer'60s-1.jpeg" StratocasterClassicPlayer'60s-2.jpeg" StratocasterClassicPlayer'60s-3.jpeg"]
 )
 
@@ -258,7 +258,7 @@ Guitar.create!(
   year: '2004',
   artist: 'Joe Striani',
   price: 1499,
-  photo_id: 'vsl276ssdu5f5g5k7mzpp8m4hk6f',
+  photo_id: 'novnfiusi829ovc4v1db55u0g1c5',
   photos_ids: %w[JS1000-0.jpeg" JS1000-1.jpeg" JS1000-2.jpeg" JS1000-3.jpeg"]
 )
 
@@ -289,7 +289,7 @@ Guitar.create!(
   purchase_date: '2001',
   price: 749,
   year: 1999,
-  photo_id: 'mpu6lk3pvfjlk3t2dow8j6j158b6',
+  photo_id: 'f2l7h6af1s4bviwvm2pyk7c3xzq9',
   photos_ids: %w[WG850-0 WG850-1 WG850-2 WG850-3]
 )
 
@@ -322,7 +322,7 @@ Guitar.create!(
   serial_number: 'G26140',
   year: '2004',
   price: 2680,
-  photo_id: 'v95bkfdqlmqbd8lgctz3twfudu77',
+  photo_id: 'fgxt0d6sgfsoreqwgmhbclm0uxed',
   photos_ids: %w[JP6-0 JP6-1 JP6-2 JP6-3]
 )
 
@@ -356,7 +356,7 @@ Guitar.create!(
   tuning_machines: 'Gotoh SG38',
   neck_shape: 'JEM',
   serial_number: '914831',
-  photo_id: 'nz4plr06smo7tel5we73taogmz3n',
+  photo_id: '8n043bfogqok00sgax1e8a79g3wv',
   photos_ids: %w[JEM77-0 JEM77-1 JEM77-2 JEM77-3.jpeg"]
 )
 
@@ -389,7 +389,7 @@ Guitar.create!(
   neck_width_nut: 48,
   neck_width_last_fret: 65,
   serial_number: '910708',
-  photo_id: 'sp9c6fq86wdgvs1ux458xt1187ca',
+  photo_id: 'g4kzhf2xii54xfnmnkffuskx4z2y',
   photos_ids: %w[UV7-0 UV7-1 UV7-2 UV7-3]
 )
 
@@ -419,7 +419,7 @@ Guitar.create!(
   inlays: 'Pearl Trapezoid',
   price: 3899,
   serial_number: '01725536',
-  photo_id: '6t2tnhx9715plc4m47puw43shafm',
+  photo_id: 'e99fnkqag0bduqq0lze7wkqrdhq2',
   photos_ids: %w[LesPaulStandard-0 LesPaulStandard-1 LesPaulStandard-2 LesPaulStandard-3]
 )
 
@@ -440,7 +440,7 @@ Guitar.create!(
   neck_width_nut: 41,
   frets_type: '6130 style',
   serial_number: '3070574',
-  photo_id: 'zas944asyltsdol6xc8snzmtthfe',
+  photo_id: 'cvq3qbnhuhg7sitbhfzq870qf5sv',
   photos_ids: %w[Variax500-0 Variax500-1 Variax500-2 Variax500-3]
 )
 
@@ -466,7 +466,7 @@ Guitar.create!(
   neck_width_nut: 43,
   tuning_machines: 'Custom77 MHDC (18:1)',
   bridge: 'Tune-O-Matic style',
-  photo_id: 'm0co1pc3caz2r11sv6wz8batoo54',
+  photo_id: 'lz7qxw6co2utpa5j7bn4ouok0jiu',
   photos_ids: %w[London'sBurningCS3-0.jpeg London'sBurningCS3-1.jpeg London'sBurningCS3-2.jpeg London'sBurningCS3-3.jpeg]
 )
 
