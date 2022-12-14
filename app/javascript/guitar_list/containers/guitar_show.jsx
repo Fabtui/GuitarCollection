@@ -56,7 +56,7 @@ class GuitarShow extends React.Component {
   render () {
     if (this.props.selectedGuitar) {
       const guitar = this.props.selectedGuitar
-      const src = `http://res.cloudinary.com/drzsrupmq/image/upload/v1/development/${guitar.photo_id}`
+      const src = `http://res.cloudinary.com/drzsrupmq/image/upload/v1671059774/GuitarList/${guitar.photo_id}`;
       const photo = guitar.photo_id ? <img src={src} id='main-photo' onClick={(e) => {this.displayPic(e); this.selectPic(e); this.mainPicSelected();}}/>
                                     : <img src={guitarPlaceholder} id={'placeholder-photo'}/>
       const mainPicClass = this.state.mainPicSelected ? 'image__container main__pic' : 'image__container secondary__pic'
